@@ -3,7 +3,6 @@ import pandas as pd
 from time import sleep
 
 
-
 def connectDBD():
 
     settings = {
